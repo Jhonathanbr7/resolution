@@ -1,0 +1,3 @@
+No exato momento em que se cruzarem, vão estar exatamente à mesma distância de Ribeirão Preto,
+mas a distância entre o caminhão e Ribeirão tende a diminuir, enquanto a distânciaentre o carro e Ribeirão tende a aumentar.
+(Resolvido apenas com interpretação lógica dos dados)
